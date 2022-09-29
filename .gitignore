@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pycache__/*
+/__pycache__/
+/__pycache__/*
+*.py[cod]
+*$py.class
+
+
+/vendor/
+/vendor/*
+/.venv/
+/.venv/*
+/staging/
+/staging/*
+*~
+
+# VScode files
+.vscode/
+.env
+dump.sql
+test_localsystem.txt
